@@ -4,8 +4,11 @@ Author: Jin Liyang, Bao Ruikai.
 miniASMS is a modified tracking algorithm based on the Robust Scale-Adaptive Mean-Shift [1].
 And the modification is based on "https://github.com/vojirt/asms".
 
+This is also the Group-B15's code for the first ARM AI algorithm contest.
+
 __________
 The code depends on C++11, OpenCV 2.4+ library and is build via cmake toolchain.
+
 __________
 References
 
